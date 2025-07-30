@@ -1,1 +1,5 @@
 # ADBMS_23BCS14207_KRG-1B
+
+Name: Shivam Kumar
+Uid: 23BCS14207
+Section: KRG-1B
